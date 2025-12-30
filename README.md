@@ -59,7 +59,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/gradient-generator.git
+git clone [https://github.com/YourUsername/gradient-generator.git](https://naveen9492.github.io/BackgroundGradientApplier/)
 
 
 Navigate into the project directory:
